@@ -26,7 +26,7 @@ module.exports = {
     searchMaxSuggestions: 10,
     smoothScroll: true,
     sidebarDepth: 2,
-    repo: 'isLordless/isLordless.github.io',
+    repo: 'isLordless/hhhan',
     repoLabel: 'GitHub',
     blogConfig: {
       tag: {
